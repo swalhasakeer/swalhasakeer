@@ -17,10 +17,6 @@
 - Machine Learning Techniques  
 - Exploratory Data Analysis 
 
-## 📫 Let’s Connect:
-- [LinkedIn](www.linkedin.com/in/swalha-sakeer-06290b334)
-- [Email](swalhasakeer@gmail.com)
-
 Feel free to check out my repositories and collaborate.😊
 
 <!---
