@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on a weather prediction project using machine learning classifiers like Decision Tree, Random Forest, and SVM.<br><br>🧩 I’m looking to collaborate on data science and machine learning projects, especially those related to real-world problem solving.<br><br>🧠 I’m looking for help with deploying ML models and improving model performance with advanced techniques.<br><br>🌱 I’m currently learning advanced SQL, machine learning and deep learning fundamentals.<br><br>💬 Ask me about Python, data analysis, EDA, machine learning workflows, or anything AI-related!<br><br>⚡ Fun fact: I love uncovering hidden patterns in messy data — it feels like solving a mystery every time!
+🧩 I’m looking to collaborate on data science and machine learning projects, especially those related to real-world problem solving.<br><br>🧠 I’m looking for help with deploying ML models and improving model performance with advanced techniques.<br><br>🌱 I’m currently learning machine learning and deep learning fundamentals.<br><br>💬 Ask me about Python, data analysis, EDA, machine learning workflows, or anything AI-related!<br><br>⚡ Fun fact: I love uncovering hidden patterns in messy data — it feels like solving a mystery every time!
 
 
 ## 🌐 Socials:
